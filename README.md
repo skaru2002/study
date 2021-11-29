@@ -9,9 +9,9 @@ npm i
 npm start
 ```
 
-### peerjs start on bash
+### peerjs start on bash2
 ```
-peerjs --port portnum
+peerjs --port 3001
 ```
 
 ### open room
