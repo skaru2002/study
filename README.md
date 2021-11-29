@@ -20,10 +20,10 @@ http://localhost:3000/
 ```
 
 ### 참조
-See [Configuration Reference](https://socket.io/get-started/chat#emitting-events)
+See [Express](https://expressjs.com/)
 
-See [Configuration Reference](https://expressjs.com/)
+See [Node JS](https://nodejs.org/dist/latest-v16.x/docs/api/path.html#pathjoinpaths)
 
-See [Configuration Reference](https://nodejs.org/dist/latest-v16.x/docs/api/path.html#pathjoinpaths)
+See [Socket IO](https://socket.io/get-started/chat#emitting-events)
 
-See [Configuration Reference](https://peerjs.com/)
+See [Peer js](https://peerjs.com/)
